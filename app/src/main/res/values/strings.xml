@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRYPTO SHIFR.ARABIAN</string>
+    <string name="buttonCrypt">تشفير</string>
+    <string name="buttonDeCrypt">فك تشفير</string>
+    <string name="buttonCopy">ينسخ</string>
+    <string name="textCopy">تم نسخ النص</string>
+    <string name="buttonDeleteAll">احذف كل شيء</string>
+    <string name="instruction">أدخل نص الرسالة</string>
+    <string name="instruction2">إدراج نص</string>
+    <string name="instruction3">انتقل إلى فك التشفير</string>
+    <string name="instruction4">انتقل إلى التشفير</string>
+    <string name="instruction5">أدخل نصًا مشفرًا</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
